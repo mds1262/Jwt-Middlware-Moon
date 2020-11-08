@@ -1,0 +1,15 @@
+package utils
+	const (
+		STORNAME = "KUS"
+		KUSUPLOADKEYS = "UPKEYSTORE"
+		KUSTOKEN = "KUSTOKENSTORE"
+		TOKENPARAMQUERY = "access_token"
+		JWTEXPIREDTIME = 10
+	)
+
+const (
+	CREATEDSUCCESSJWT = true
+	CREATEDFAILJWT = false
+)
+
+
